@@ -1,8 +1,8 @@
 {
-  "name": "AgilePoker",
-  "short_name": "AgilePoker",
-  "theme_color": "#2a0044",
-  "background_color": "#2a0044",
+  "name": "ReactPWA2000",
+  "short_name": "ReactPWA2000",
+  "theme_color": "#0C0C0C",
+  "background_color": "#0C0C0C",
   "display": "standalone",
   "start_url": "/",
   "icons": [
